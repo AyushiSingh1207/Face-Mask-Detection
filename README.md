@@ -19,7 +19,7 @@ Key Libraries: OpenCV, TensorFlow, Keras, Matplotlib, NumPy, Scikit-learn
 ### 4. Data Augmentation (Current Stage)  :-
 Objective: Improve model generalization by applying transformations.Techniques Used: Rotation, flipping, zoom, brightness adjustments.Implementation: Using ImageDataGenerator from Keras to generate augmented images dynamically during training.
 
-### 5.  Model Construction (Using MobileNetV2 as Base Layer) (Next Steps) :-
+### 5.  Model Construction (Using MobileNetV2 as Base Layer) (Current steps) :-
 
 Objective: Use MobileNetV2 as the feature extractor and add custom layers for classification.
 
