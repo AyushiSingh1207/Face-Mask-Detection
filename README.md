@@ -9,7 +9,7 @@ Project Workflow
 Tools Used: Python, OpenCV, TensorFlow, Keras, Matplotlib, NumPyObjective: Create a structured workspace and organize project files efficiently for seamless data processing.
 
 2. Dataset Collection & Preprocessing  :-
-Source: Open-source datasets for masked and unmasked faces.Storage Structure: The dataset is stored in the dataset/ directory.Preprocessing Steps: Convert images to grayscale (optional). Resize images to a uniform size (e.g., 224x224). Normalize pixel values for better model convergence.
+Source: Open-source datasets for masked and unmasked faces.Storage Structure: The dataset is stored in the dataset/ directory.Preprocessing Steps: Resize images to a uniform size (e.g., 224x224). Normalize pixel values for better model convergence.
 
 3. Installing Required Libraries  :-
 Install necessary dependencies:
